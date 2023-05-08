@@ -29,7 +29,7 @@ Summary Statistic Plots:
 ![probablity density histogram](/plots/rfc_histogram.png)
 ![probablity density histogram](/plots/turb_histogram.png)
 ![probablity density histogram](/plots/rfc_scatter.png)
-![probablity density histogram](/plots/turb_histogram.png)
+![probablity density histogram](/plots/turb_scatter.png)
 
 
 Map Graph:
