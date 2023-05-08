@@ -27,6 +27,7 @@ I’m interested in predicting when the coliform levels are over 1 MPN/100mL, wh
 
 Summary Statistic Plots:
 ![probablity density histogram](/plots/histogram.png)
+![probablity density histogram](/plots/scatterplot.png)
 
 
 Map Graphs:
@@ -35,6 +36,9 @@ Map Graphs:
 You can explore this map [as its own web page here](nyc_water_site_map.html)
 
 Model Performance Plots:
+![probablity density histogram](/plots/tpr.png)
+![probablity density histogram](/plots/precision_vs_recall.png)
+![probablity density histogram](/plots/confusion_matrix.png)
 
 
 
