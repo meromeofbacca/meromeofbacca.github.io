@@ -17,7 +17,7 @@ Residual Free Chlorine: It is the amount of chlorine leftover after a certain pe
 MPN/100mL: A statistical approach to measuring the amount of coliform bacteria organisms are in 100mL of water.
 
 Data Source:
-[Link text Here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky)
+[Link to NYC Open Data](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky)
 
 
 Data Dictionary:
