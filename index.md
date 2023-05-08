@@ -17,7 +17,8 @@ Residual Free Chlorine: It is the amount of chlorine leftover after a certain pe
 MPN/100mL: A statistical approach to measuring the amount of coliform bacteria organisms are in 100mL of water.
 
 Data Source:
-https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky
+[Link text Here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky)
+
 
 Data Dictionary:
 My data consists of information on the samples, like sample number, date, time, site, and class. The sample qualities are measured numerically. Chlorine and fluorine is measured in mg/L, and turbidity in NTU (turbidity units). Coliforms and E.Coli are measured in MPN/100mL and are measured numerically, except when it is less than 1, where the data is listed as <1.
