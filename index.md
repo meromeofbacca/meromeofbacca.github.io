@@ -26,6 +26,7 @@ Predicting Column:
 I’m interested in predicting when the coliform levels are over 1 MPN/100mL, which shows that there are coliform colonies in the water level. An acceptable level of coliform bacteria in water established by the EPA (Environmental Protective Agency) is 0 MPN/100mL, so water measured at or above 1 MPN/100mL is considered at risk for pathogens.
 
 Summary Statistic Plots:
+![probablity density histogram](/plots/histogram.png)
 
 
 Map Graphs:
