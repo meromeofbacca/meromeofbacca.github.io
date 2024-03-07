@@ -1,7 +1,6 @@
 """
 Name:       Viet Dinh
-Email:      viet.dinh48@myhunter.cuny.edu
-Resources:  Used data science textbook for help with models
+Email:      vdinh2020@gmail.com
 Title:      Are There Fecal Bacteria In Your Water?
 URL:        https://meromeofbacca.github.io/
 """
